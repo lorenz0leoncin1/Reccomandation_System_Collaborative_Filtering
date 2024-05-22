@@ -1,26 +1,26 @@
-# Titolo del Progetto
+# Big Data Project
 
-## Descrizione
-Breve descrizione del progetto.
+## Description
+Still to decide.
 
-## Struttura del Repository
-- `project_notebook.ipynb`: Notebook principale.
-- `scripts/`: Script Python ausiliari.
-- `docs/`: Documentazione, inclusa la relazione LaTeX.
+## Repository Structure
+- `project_notebook.ipynb`: Main notebook.
+- `scripts/`: Auxiliary Python scripts.
+- `docs/`: Documentation, including the LaTeX report.
 
-## Esecuzione del Notebook
+## Notebook Execution
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-YJ2d0lqNUVQNjCxMlA0U5kTG2wYcY-f)
 
-## Istruzioni per l'Esecuzione
-1. Clona il repository:
+## Execution Instructions
+1. Clone the repository:
     ```bash
     git clone https://github.com/USERNAME/REPOSITORY_NAME.git
     ```
-2. Naviga nella directory del progetto:
+2. Navigate to the project directory:
     ```bash
     cd REPOSITORY_NAME
     ```
-3. Esegui il notebook su Google Colab cliccando sul badge sopra.
+3. Run the notebook on Google Colab by clicking the badge above.
 
-## Licenza
-Questo progetto è concesso in licenza con il MIT License. Vedi il file `LICENSE` per i dettagli.
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
