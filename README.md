@@ -5,7 +5,6 @@ Breve descrizione del progetto.
 
 ## Struttura del Repository
 - `project_notebook.ipynb`: Notebook principale.
-- `data/`: Contiene il file README con le istruzioni per ottenere i dati.
 - `scripts/`: Script Python ausiliari.
 - `docs/`: Documentazione, inclusa la relazione LaTeX.
 
