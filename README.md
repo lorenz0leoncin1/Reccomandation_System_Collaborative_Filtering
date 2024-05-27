@@ -9,7 +9,7 @@ Still to decide.
 - `docs/`: Documentation, including the LaTeX report.
 
 ## Notebook Execution
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eo6wKYlnCdSxsh2yMwOQrS4-H_mLhhH2#scrollTo=sgh849AO_GCQ)
 
 ## Execution Instructions
 1. Clone the repository:
