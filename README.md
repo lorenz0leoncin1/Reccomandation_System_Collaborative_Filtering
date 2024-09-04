@@ -5,7 +5,6 @@ Raccomandation System based on Collaborative Filtering
 
 ## Repository Structure
 - `project_notebook.ipynb`: Main notebook.
-- `scripts/`: Auxiliary Python scripts.
 - `docs/`: Documentation, including the LaTeX report.
 
 ## Notebook Execution
