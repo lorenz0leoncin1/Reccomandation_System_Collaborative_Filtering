@@ -1,7 +1,7 @@
 # Big Data Project
 
 ## Description
-Still to decide.
+Raccomandation System based on Collaborative Filtering
 
 ## Repository Structure
 - `project_notebook.ipynb`: Main notebook.
