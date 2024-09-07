@@ -8,4 +8,4 @@ Raccomandation System based on Collaborative Filtering
 - `docs/`: Documentation, including the LaTeX report.
 
 ## Notebook Execution
-[![Open in Colab](https://colab.research.google.com/drive/19tGUklqUuRvuhtNEyWCIR5LAqX5c5Ims#scrollTo=q-3e10StPCAL)
+[![Open in Colab](https://colab.research.google.com/drive/19tGUklqUuRvuhtNEyWCIR5LAqX5c5Ims#scrollTo=q-3e10StPCAL)]
