@@ -8,5 +8,5 @@
 - `Collaborative_Filtering_Project.ipynb`: Main notebook.
 - `Collaborative_Filtering_Project.pdf`: LaTeX report.
 
-##IMPORTANT
+IMPORTANT
 The notebook has a badge to colab, open the .ipynb to see it
