@@ -1,4 +1,4 @@
-# Reccomandation System Collaborative Filtering
+# Reccomendation System Collaborative Filtering
 
 ## Collaborative Filtering
 
